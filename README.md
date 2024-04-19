@@ -1,1 +1,1 @@
-[DEMO LINK](https://olespartyka.github.io/my-app/)
+DEMO LINK - https://olespartyka.github.io/my-app/
