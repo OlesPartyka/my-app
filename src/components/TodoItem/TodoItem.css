@@ -1,0 +1,33 @@
+.TodoItem {
+  padding: 5px 20px;
+  border-bottom: 1px solid #3d5a80;
+  height: 50px;
+}
+
+.TodoItem:last-child {
+  border-bottom: none;
+}
+
+.TodoItem__task {
+  line-height: 35px;
+  font-size: 20px;
+  cursor: pointer;
+  min-width: 550px;
+}
+
+.TodoItem button {
+  width: 35px;
+  height: 35px;
+  margin: 3px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.TodoItem .btn-pencil {
+  color: #e09f3e;
+}
+
+.TodoItem .btn-trash {
+  color: #e5383b;
+}
